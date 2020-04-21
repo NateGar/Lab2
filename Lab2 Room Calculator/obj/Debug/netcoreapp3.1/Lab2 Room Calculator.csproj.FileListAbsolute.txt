@@ -1,0 +1,13 @@
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.exe
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.deps.json
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.runtimeconfig.json
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.runtimeconfig.dev.json
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.dll
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\bin\Debug\netcoreapp3.1\Lab2 Room Calculator.pdb
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.csprojAssemblyReference.cache
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.AssemblyInfoInputs.cache
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.AssemblyInfo.cs
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.dll
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.pdb
+C:\Users\Nate\source\repos\CSharp_april2020\Lab2 Room Calculator\Lab2 Room Calculator\obj\Debug\netcoreapp3.1\Lab2 Room Calculator.genruntimeconfig.cache
